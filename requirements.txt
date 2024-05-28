@@ -1,0 +1,19 @@
+torch==2.3.0
+pandas 
+dvc  ## for data version control
+mlflow==2.12.2  ## for experiment tracking
+notebook
+numpy
+matplotlib
+seaborn
+python-box==7.1.1
+pyYAML  ## to read yaml file with yaml
+tqdm
+ensure==1.0.4
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+gdown  ## to read data from google drive
+-e .  ## to install the src folder as a package and import modules from it

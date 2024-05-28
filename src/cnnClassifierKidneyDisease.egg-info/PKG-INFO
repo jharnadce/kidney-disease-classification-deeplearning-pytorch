@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: cnnClassifierKidneyDisease
+Version: 0.0.0
+Summary: A small python package for cnn app
+Home-page: https://github.com/jharnadce/kidney-disease-classification-deeplearning-pytorch
+Author: jharnadce
+Author-email: jharnadce@gmail.com
+Project-URL: Bug Tracker, https://github.com/jharnadce/kidney-disease-classification-deeplearning-pytorch/issues
+
+# kidney-disease-classification-deeplearning-pytorch
