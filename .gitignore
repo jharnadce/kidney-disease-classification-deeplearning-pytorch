@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+download/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+artifacts/*
