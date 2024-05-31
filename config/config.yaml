@@ -5,3 +5,8 @@ data_ingestion:
   source_URL: https://drive.google.com/file/d/1ndhaI6Z8H4VKZPo4bml2Ml6XyoR9DcdL/view?usp=sharing  # path to download data from
   local_data_file: artifacts/data_ingestion/data.zip  # data gets downloaded to this file
   unzip_dir: artifacts/data_ingestion  # when data is unzipped it gets saved here
+
+prepare_base_model:
+  root_dir: artifacts/prepare_base_model
+  base_model_path: artifacts/prepare_base_model/base_model.h5
+  updated_base_model_path: artifacts/prepare_base_model/updated_base_model.h5

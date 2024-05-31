@@ -1,1 +1,8 @@
-key: val
+image_size: (224, 224)
+learning_rate: 0.01
+momentum: 0.9
+epochs: 3
+batch_size: 8
+classes: 2
+include_top: False
+
